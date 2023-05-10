@@ -1,0 +1,14 @@
+{
+    "name": "vietanh1606/woocommerce-checkout-field-editor",
+    "description": "woocommerce-checkout-field-editor",
+    "keywords": ["wordpress", "plugin", "roots"],
+    "type": "wordpress-plugin",
+    "license": "MIT",
+    "authors": [
+        {
+            "name": "Viet Anh",
+            "email": "ngovietanh1606@gmail.com"
+        }
+    ],
+    "require": {"php": ">=8.0"}
+}
